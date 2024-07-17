@@ -5,4 +5,8 @@ django-admin startproject <>
 
 python manager.py startapp <>
 
+python manage.py migrate
+
+python manage.py makemigrations <>
+
 ```
